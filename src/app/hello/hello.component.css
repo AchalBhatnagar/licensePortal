@@ -1,0 +1,24 @@
+.container {
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.login {
+    border: solid;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.vertical-align-center {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+/*h1,
+p {
+    text-align: center;
+}
+*/
